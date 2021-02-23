@@ -1,0 +1,5 @@
+1) Display
+2) Numeric Buttons(0-9)
+3) Function to store data of Numeric Buttons
+4) Operation Buttons
+5) Claculate Button
